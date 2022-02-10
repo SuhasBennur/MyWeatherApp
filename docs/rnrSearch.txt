@@ -1,0 +1,32 @@
+[
+  {
+    "Version": 1,
+    "Key": "193484",
+    "Type": "City",
+    "Rank": 45,
+    "LocalizedName": "Ranibennur",
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "KA",
+      "LocalizedName": "Karnataka"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "2851367",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Ranibennur",
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "KA",
+      "LocalizedName": "Karnataka"
+    }
+  }
+]
